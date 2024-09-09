@@ -1,3 +1,6 @@
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram)](https://t.me/ncglx)
+<div align="center">
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=x6txy)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ncglx)
+[![GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=x6txy&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/LordDashMe/github-contribution-stats/)
+
+</div>
